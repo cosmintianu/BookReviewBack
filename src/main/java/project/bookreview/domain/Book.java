@@ -47,5 +47,5 @@ public class Book {
     //@JsonManagedReference
     private Set<Genre> genres = new HashSet<Genre>();
 
-
+//bine varule
 }
